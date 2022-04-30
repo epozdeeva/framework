@@ -1,0 +1,13 @@
+.field{
+    border:solid red 1px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.field:hover{
+    background-color: aquamarine;
+}
+
+.active{
+    background-color: cornflowerblue;
+}

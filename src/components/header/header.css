@@ -1,0 +1,8 @@
+.header{
+    text-align:center;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,17 @@
+.canvas{
+    border: 2px solid #fccfcf;
+    border-radius: 0.3vw;
+}
+
+.divCanvas{
+    width:600px;
+    height:600px;
+    display:inline-block;
+}
+
+#contentGraph2D{
+    width:auto;
+    height:auto;
+    text-align:center;
+    display:inline-block;
+}
